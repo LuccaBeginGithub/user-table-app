@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LuccaBeginGithub/user-table-app.git/static/css/main.e096d6b5.css",
+    "main.js": "/LuccaBeginGithub/user-table-app.git/static/js/main.52a0bf1e.js",
+    "static/js/453.1cbe6b13.chunk.js": "/LuccaBeginGithub/user-table-app.git/static/js/453.1cbe6b13.chunk.js",
+    "index.html": "/LuccaBeginGithub/user-table-app.git/index.html",
+    "main.e096d6b5.css.map": "/LuccaBeginGithub/user-table-app.git/static/css/main.e096d6b5.css.map",
+    "main.52a0bf1e.js.map": "/LuccaBeginGithub/user-table-app.git/static/js/main.52a0bf1e.js.map",
+    "453.1cbe6b13.chunk.js.map": "/LuccaBeginGithub/user-table-app.git/static/js/453.1cbe6b13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e096d6b5.css",
+    "static/js/main.52a0bf1e.js"
+  ]
+}
