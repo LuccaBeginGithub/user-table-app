@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LuccaBeginGithub/user-table-app/static/css/main.e096d6b5.css",
-    "main.js": "/LuccaBeginGithub/user-table-app/static/js/main.f7059e0b.js",
-    "static/js/453.1cbe6b13.chunk.js": "/LuccaBeginGithub/user-table-app/static/js/453.1cbe6b13.chunk.js",
-    "index.html": "/LuccaBeginGithub/user-table-app/index.html",
-    "main.e096d6b5.css.map": "/LuccaBeginGithub/user-table-app/static/css/main.e096d6b5.css.map",
-    "main.f7059e0b.js.map": "/LuccaBeginGithub/user-table-app/static/js/main.f7059e0b.js.map",
-    "453.1cbe6b13.chunk.js.map": "/LuccaBeginGithub/user-table-app/static/js/453.1cbe6b13.chunk.js.map"
+    "main.css": "/user-table-app/static/css/main.e096d6b5.css",
+    "main.js": "/user-table-app/static/js/main.0fbd6222.js",
+    "static/js/453.1cbe6b13.chunk.js": "/user-table-app/static/js/453.1cbe6b13.chunk.js",
+    "index.html": "/user-table-app/index.html",
+    "main.e096d6b5.css.map": "/user-table-app/static/css/main.e096d6b5.css.map",
+    "main.0fbd6222.js.map": "/user-table-app/static/js/main.0fbd6222.js.map",
+    "453.1cbe6b13.chunk.js.map": "/user-table-app/static/js/453.1cbe6b13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e096d6b5.css",
-    "static/js/main.f7059e0b.js"
+    "static/js/main.0fbd6222.js"
   ]
 }
